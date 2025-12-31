@@ -7,9 +7,9 @@ import { motion } from "framer-motion";
 import Astra from "../assets/Astra.png";
 
 
-const SERVICE_ID = "service_flxzp89";
-const TEMPLATE_ID = "template_zrs5apc";
-const PUBLIC_KEY = "Im8nlxE1DgVKyaSqh";
+const SERVICE_ID = "ServiceKey";
+const TEMPLATE_ID = "templateKey";
+const PUBLIC_KEY = "publicKey";
 
 export default function Contact() {
   
